@@ -3,7 +3,7 @@
     {
       "username": "09113503709",
       "activation_code": "HS-1001-ABCD-EFGH",
-      "tier": "VIP - Speed 200",
+      "tier": "VIP - Speed 300",
       "delay_ms": 10,
       "concurrency": 200,
       "is_active": true
