@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "username": "Fatima",
+      "activation_code": "VIP-FAST-9988",
+      "tier": "Pro", 
+      "delay_ms": 200, 
+      "concurrency": 10,
+      "is_active": true
+    },
+    {
+      "username": "NormalUser",
+      "activation_code": "FREE-SLOW-1234",
+      "tier": "Free",
+      "delay_ms": 2000, 
+      "concurrency": 1,
+      "is_active": true
+    }
+  ]
+}
