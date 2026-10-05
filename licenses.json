@@ -3,17 +3,17 @@
     {
       "username": "09113503709",
       "activation_code": "HS-1001-ABCD-EFGH",
-      "tier": "VIP - Speed 300",
-      "delay_ms": 10,
-      "concurrency": 200,
+      "tier": "VIP Gold - Speed 300",
+      "delay_ms": 20,
+      "concurrency": 100,
       "is_active": true
     },
     {
-      "username": "hoorsa_username_2",
-      "activation_code": "HS-2002-WXYZ-1234",
-      "tier": "Standard",
-      "delay_ms": 1000,
-      "concurrency": 3,
+      "username": "09918016198",
+      "activation_code": "HS-1111-ZKYZ-564F",
+      "tier": "Super Fast VIP - Speed 1000",
+      "delay_ms": 10,
+      "concurrency": 250,
       "is_active": true
     },
     {
