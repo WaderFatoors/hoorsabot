@@ -11,9 +11,9 @@
     {
       "username": "09918016198",
       "activation_code": "HS-1111-ZKYZ-564F",
-      "tier": "Super Fast VIP - Speed 1000",
+      "tier": "Super Fast VIP - Speed 700",
       "delay_ms": 10,
-      "concurrency": 250,
+      "concurrency": 100,
       "is_active": true
     },
     {
