@@ -11,17 +11,17 @@
     {
       "username": "09918016198",
       "activation_code": "HS-1111-ZKYZ-564F",
-      "tier": "Super Fast VIP - Speed 700",
-      "delay_ms": 10,
-      "concurrency": 100,
-      "is_active": false
+      "tier": "Standard - Speed 100",
+      "delay_ms": 1000,
+      "concurrency": 5,
+      "is_active": true
     },
     {
       "username": "09027587334",
       "activation_code": "HS-3003-RKHV-8L6V",
       "tier": "Standard - Speed 100",
       "delay_ms": 1000,
-      "concurrency": 1,
+      "concurrency": 5,
       "is_active": true
     }
   ]
