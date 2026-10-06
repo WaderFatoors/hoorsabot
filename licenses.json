@@ -3,7 +3,7 @@
     {
       "username": "09113503709",
       "activation_code": "HS-1001-ABCD-EFGH",
-      "tier": "c",
+      "tier": "c1",
       "delay_ms": 20,
       "concurrency": 100,
       "is_active": true
@@ -21,6 +21,14 @@
       "activation_code": "HS-3003-RKHV-8L6V",
       "tier": "Standard - Speed 100",
       "delay_ms": 1000,
+      "concurrency": 5,
+      "is_active": true
+    },
+    {
+      "username": "09929512579",
+      "activation_code": "HS-3004-RJHV-1P6V",
+      "tier": "Standard - Speed 200",
+      "delay_ms": 500,
       "concurrency": 5,
       "is_active": true
     }
