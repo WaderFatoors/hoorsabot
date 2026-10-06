@@ -14,7 +14,7 @@
       "tier": "Super Fast VIP - Speed 700",
       "delay_ms": 10,
       "concurrency": 100,
-      "is_active": true
+      "is_active": false
     },
     {
       "username": "hoorsa_username_3",
