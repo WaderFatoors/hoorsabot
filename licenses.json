@@ -17,12 +17,12 @@
       "is_active": false
     },
     {
-      "username": "hoorsa_username_3",
-      "activation_code": "HS-3003-LOCKED-9999",
-      "tier": "Expired",
+      "username": "09027587334",
+      "activation_code": "HS-3003-RKHV-8L6V",
+      "tier": "Standard - Speed 100",
       "delay_ms": 1000,
       "concurrency": 1,
-      "is_active": false
+      "is_active": true
     }
   ]
 }
