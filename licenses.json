@@ -31,6 +31,14 @@
       "delay_ms": 500,
       "concurrency": 5,
       "is_active": true
+    },
+    {
+      "username": "09194861245",
+      "activation_code": "HS-3005-RJHV-1ZXV",
+      "tier": "Standard - Speed 200",
+      "delay_ms": 200,
+      "concurrency": 20,
+      "is_active": true
     }
   ]
 }
